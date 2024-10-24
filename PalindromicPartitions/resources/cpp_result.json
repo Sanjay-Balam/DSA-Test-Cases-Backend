@@ -1,0 +1,129 @@
+[
+  {
+    "input": "banana",
+    "output": [
+      [
+        "b",
+        "a",
+        "n",
+        "a",
+        "n",
+        "a"
+      ],
+      [
+        "b",
+        "a",
+        "n",
+        "ana"
+      ],
+      [
+        "b",
+        "a",
+        "nan",
+        "a"
+      ],
+      [
+        "b",
+        "ana",
+        "n",
+        "a"
+      ],
+      [
+        "b",
+        "anana"
+      ]
+    ],
+    "result": true
+  },
+  {
+    "input": "racecar",
+    "output": [
+      [
+        "r",
+        "a",
+        "c",
+        "e",
+        "c",
+        "a",
+        "r"
+      ],
+      [
+        "r",
+        "a",
+        "cec",
+        "a",
+        "r"
+      ],
+      [
+        "r",
+        "aceca",
+        "r"
+      ],
+      [
+        "racecar"
+      ]
+    ],
+    "result": true
+  },
+  {
+    "input": "noon",
+    "output": [
+      [
+        "n",
+        "o",
+        "o",
+        "n"
+      ],
+      [
+        "n",
+        "oo",
+        "n"
+      ],
+      [
+        "noon"
+      ]
+    ],
+    "result": true
+  },
+  {
+    "input": "level",
+    "output": [
+      [
+        "l",
+        "e",
+        "v",
+        "e",
+        "l"
+      ],
+      [
+        "l",
+        "eve",
+        "l"
+      ],
+      [
+        "level"
+      ]
+    ],
+    "result": true
+  },
+  {
+    "input": "abba",
+    "output": [
+      [
+        "a",
+        "b",
+        "b",
+        "a"
+      ],
+      [
+        "a",
+        "bb",
+        "a"
+      ],
+      [
+        "abba"
+      ]
+    ],
+    "result": true
+  }
+]

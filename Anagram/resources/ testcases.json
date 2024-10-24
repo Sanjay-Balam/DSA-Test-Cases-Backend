@@ -1,0 +1,14 @@
+[
+    {
+        "input":["fried","fired"],
+        "output": true
+    },
+    {
+        "input":["listen","silent"],
+        "output":true
+    },
+    {
+        "input":["asdb","aseew"],
+        "output":false
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "input": ["coder", "ocder"],
+        "output": true
+    },
+    {
+        "input": ["abcde", "caebd"],
+        "output": false
+    },
+    {
+        "input": ["computer", "putcomer"],
+        "output": true
+    },
+    {
+        "input": ["hello", "ohell"],
+        "output": true
+    },
+    {
+        "input": ["scramble", "scrmalbe"],
+        "output": true
+    },
+    {
+        "input": ["television", "elvtiseoni"],
+        "output": false
+    },
+    {
+        "input": ["intelligent", "nelligentti"],
+        "output": true
+    }
+]

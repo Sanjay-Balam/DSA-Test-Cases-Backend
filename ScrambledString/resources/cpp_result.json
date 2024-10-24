@@ -1,0 +1,58 @@
+[
+  {
+    "input": [
+      "coder",
+      "ocder"
+    ],
+    "output": true,
+    "result": true
+  },
+  {
+    "input": [
+      "abcde",
+      "caebd"
+    ],
+    "output": false,
+    "result": true
+  },
+  {
+    "input": [
+      "computer",
+      "putcomer"
+    ],
+    "output": true,
+    "result": true
+  },
+  {
+    "input": [
+      "hello",
+      "ohell"
+    ],
+    "output": true,
+    "result": true
+  },
+  {
+    "input": [
+      "scramble",
+      "scrmalbe"
+    ],
+    "output": true,
+    "result": true
+  },
+  {
+    "input": [
+      "television",
+      "elvtiseoni"
+    ],
+    "output": false,
+    "result": true
+  },
+  {
+    "input": [
+      "intelligent",
+      "nelligentti"
+    ],
+    "output": true,
+    "result": true
+  }
+]

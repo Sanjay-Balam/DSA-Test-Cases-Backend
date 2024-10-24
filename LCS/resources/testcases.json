@@ -1,0 +1,38 @@
+[
+
+    {
+        "s1": "abc",
+        "s2": "abc",
+        "output": 3
+    },
+    {
+        "s1": "abc",
+        "s2": "def",
+        "output": 0
+    },
+    {
+        "s1": "xyzw",
+        "s2": "xywz",
+        "output": 3
+    },
+    {
+        "s1": "abcxyzd",
+        "s2": "axydz",
+        "output": 4
+    },
+    {
+        "s1": "abcdef",
+        "s2": "ghijkl",
+        "output": 0
+    },
+    {
+        "s1": "aggtabg",
+        "s2": "gxtxayb",
+        "output": 4
+    },
+    {
+        "s1": "hello",
+        "s2": "olle",
+        "output": 2
+    }
+]

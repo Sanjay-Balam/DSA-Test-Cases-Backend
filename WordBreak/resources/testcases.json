@@ -1,0 +1,50 @@
+[
+    {
+        "input": ["leetcode", ["leet", "code"]],
+        "output": true
+    },
+    {
+        "input": ["applepenapple", ["apple", "pen"]],
+        "output": true
+    },
+    {
+        "input": ["catsandog", ["cats", "dog", "sand", "and", "cat"]],
+        "output": false
+    },
+    {
+        "input": ["pineapplepenapple", ["apple", "pen", "pine", "pineapple"]],
+        "output": true
+    },
+    {
+        "input": ["catsandog", ["cats", "dog", "sand", "and", "cat"]],
+        "output": false
+    },
+    {
+        "input": ["applepen", ["apple", "pen"]],
+        "output": true
+    },
+    {
+        "input": ["aaaaaaa", ["aaaa", "aaa"]],
+        "output": true
+    },
+    {
+        "input": ["helloworld", ["hello", "world"]],
+        "output": true
+    },
+    {
+        "input": ["abcdef", ["ab", "abc", "cd", "def", "abcd"]],
+        "output": true
+    },
+    {
+        "input": ["applepie", ["apple", "pie"]],
+        "output": true
+    },
+    {
+        "input": ["applemango", ["apple", "mango"]],
+        "output": true
+    },
+    {
+        "input": ["pineapplemango", ["pineapple", "mango"]],
+        "output": true
+    }
+]

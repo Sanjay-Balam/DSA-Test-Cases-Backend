@@ -1,0 +1,15 @@
+[
+  {
+    "N": 6,
+    "knightPos": [
+      4,
+      5
+    ],
+    "output": 3,
+    "result": false,
+    "targetPos": [
+      1,
+      1
+    ]
+  }
+]

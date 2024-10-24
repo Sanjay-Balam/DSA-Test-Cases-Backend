@@ -1,0 +1,145 @@
+[
+  {
+    "input": [
+      "leetcode",
+      [
+        "leet",
+        "code"
+      ]
+    ],
+    "output": true,
+    "result": true
+  },
+  {
+    "input": [
+      "applepenapple",
+      [
+        "apple",
+        "pen"
+      ]
+    ],
+    "output": true,
+    "result": true
+  },
+  {
+    "input": [
+      "catsandog",
+      [
+        "cats",
+        "dog",
+        "sand",
+        "and",
+        "cat"
+      ]
+    ],
+    "output": false,
+    "result": true
+  },
+  {
+    "input": [
+      "pineapplepenapple",
+      [
+        "apple",
+        "pen",
+        "pine",
+        "pineapple"
+      ]
+    ],
+    "output": true,
+    "result": true
+  },
+  {
+    "input": [
+      "catsandog",
+      [
+        "cats",
+        "dog",
+        "sand",
+        "and",
+        "cat"
+      ]
+    ],
+    "output": false,
+    "result": true
+  },
+  {
+    "input": [
+      "applepen",
+      [
+        "apple",
+        "pen"
+      ]
+    ],
+    "output": true,
+    "result": true
+  },
+  {
+    "input": [
+      "aaaaaaa",
+      [
+        "aaaa",
+        "aaa"
+      ]
+    ],
+    "output": true,
+    "result": true
+  },
+  {
+    "input": [
+      "helloworld",
+      [
+        "hello",
+        "world"
+      ]
+    ],
+    "output": true,
+    "result": true
+  },
+  {
+    "input": [
+      "abcdef",
+      [
+        "ab",
+        "abc",
+        "cd",
+        "def",
+        "abcd"
+      ]
+    ],
+    "output": true,
+    "result": true
+  },
+  {
+    "input": [
+      "applepie",
+      [
+        "apple",
+        "pie"
+      ]
+    ],
+    "output": true,
+    "result": true
+  },
+  {
+    "input": [
+      "applemango",
+      [
+        "apple",
+        "mango"
+      ]
+    ],
+    "output": true,
+    "result": true
+  },
+  {
+    "input": [
+      "pineapplemango",
+      [
+        "pineapple",
+        "mango"
+      ]
+    ],
+    "output": true,
+    "result": true
+  }
+]

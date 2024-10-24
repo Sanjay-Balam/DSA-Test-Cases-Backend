@@ -1,0 +1,46 @@
+[
+  {
+    "input": [
+      1,
+      2,
+      3
+    ],
+    "output": [
+      3,
+      2,
+      1
+    ],
+    "result": false
+  },
+  {
+    "input": [
+      1,
+      2
+    ],
+    "output": [
+      2,
+      1
+    ],
+    "result": false
+  },
+  {
+    "input": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "output": [
+      4,
+      3,
+      2,
+      1
+    ],
+    "result": false
+  },
+  {
+    "input": [],
+    "output": [],
+    "result": false
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "output": 3,
+    "result": true,
+    "s1": "abc",
+    "s2": "abc"
+  },
+  {
+    "output": 0,
+    "result": true,
+    "s1": "abc",
+    "s2": "def"
+  },
+  {
+    "output": 3,
+    "result": true,
+    "s1": "xyzw",
+    "s2": "xywz"
+  },
+  {
+    "output": 4,
+    "result": true,
+    "s1": "abcxyzd",
+    "s2": "axydz"
+  },
+  {
+    "output": 0,
+    "result": true,
+    "s1": "abcdef",
+    "s2": "ghijkl"
+  },
+  {
+    "output": 4,
+    "result": true,
+    "s1": "aggtabg",
+    "s2": "gxtxayb"
+  },
+  {
+    "output": 2,
+    "result": true,
+    "s1": "hello",
+    "s2": "olle"
+  }
+]

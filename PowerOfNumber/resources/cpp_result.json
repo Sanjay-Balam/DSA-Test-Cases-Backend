@@ -1,0 +1,38 @@
+[
+  {
+    "N": 2,
+    "R": 3,
+    "output": 8,
+    "result": true
+  },
+  {
+    "N": 5,
+    "R": 2,
+    "output": 25,
+    "result": true
+  },
+  {
+    "N": 10,
+    "R": 0,
+    "output": 1,
+    "result": true
+  },
+  {
+    "N": 12,
+    "R": 21,
+    "output": 864354781,
+    "result": true
+  },
+  {
+    "N": 23553,
+    "R": 35532,
+    "output": 576144397,
+    "result": true
+  },
+  {
+    "N": 23553678,
+    "R": 87635532,
+    "output": 590988018,
+    "result": true
+  }
+]

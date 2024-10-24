@@ -1,0 +1,8 @@
+[
+    {
+        "N": 6,
+        "knightPos": [4, 5],
+        "targetPos": [1, 1],
+        "output": 3
+    }
+]
